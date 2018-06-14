@@ -1,5 +1,5 @@
 {
-  "name": "3dio",
+  "name": "io3fix",
   "version": "1.2.1",
   "description": "toolkit for interior apps",
   "keywords": [
@@ -26,10 +26,10 @@
     "3d.io"
   ],
   "homepage": "https://3d.io",
-  "repository": "archilogic-com/3dio-js",
+  "repository": "mehrdadkhan64/io3fix-js",
   "license": "MIT",
   "author": {
-    "name": "archilogic",
+    "name": "me",
     "email": "dev.rocks@archilogic.com",
     "url": "https://archilogic.com"
   },
